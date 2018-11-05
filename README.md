@@ -2,11 +2,12 @@
 Curso básico para aprender el lenguaje de programación de R
 
 ## Intro
-## Orden del día
-  * ¿Qué es R?
-  * ¿Cómo se instala?
-  * Lo básico
-  * Acción
+## Objetivos
+- Instalar R y RStudio
+- Introducción al lenguaje y ambiente R
+- Visualización de datos
+- Transformación de datos
+
 
 
 ### ¿Qué es R?
