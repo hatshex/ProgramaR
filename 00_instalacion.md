@@ -32,3 +32,10 @@ Puedes descargar [RStudio](https://www.rstudio.com/products/rstudio/download/) s
 En su versión más reciente, también autocompleta código y debuggea al vuelo.
 
 Aguas con el uso de la memoria *RAM* de este editor pues abusa bastante y -cuando están usando una gran cantidad de datos o procesos muy pesados- RStudio suele tronar fácilmente. Buenas prácticas de todos los días: guarden seguido, sigan un workflow aunado a controlador de versiones (o algún tipo de backup) y, sobretodo, creen sus funciones, lógica, algoritmos, con una muestra de sus datos.
+
+¿Qué se puede hacer en RStudio?
+- Scripts de Análisis de Datos
+- Aplicaciones web interactivas
+- Documentos
+- Reportes
+- Gráficas
