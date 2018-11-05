@@ -1,4 +1,4 @@
-### 1. [Introducción](https://www.r-project.org/about.html).
+### 1. [Introducción al lenguaje y ambiente R](https://www.r-project.org/about.html).
 ## ¿Qué es R?
 R es un lenguaje y entorno para computación estadística y gráficos. Es un proyecto GNU que es similar al lenguaje y el entorno S que fue desarrollado en los Laboratorios Bell (anteriormente AT&T, ahora Lucent Technologies) por John Chambers y sus colegas. R puede considerarse como una implementación diferente de S. Hay algunas diferencias importantes, pero gran parte del código escrito para S se ejecuta sin alterar en R.
 
@@ -25,19 +25,14 @@ R es en gran medida un vehículo para los nuevos métodos de análisis de datos 
 
 *  Un lenguaje de programación simple, efectivo y bien desarrollado (llamado 'S') que nos permite utilizar estructuras de control."
 
-### 2. R es software libre 
-
-#### ¿Qué ventajas tiene eso?
+*R es software libre*: 
 
 *  Mayor velocidad de actualizaciones y mejoras
-
 *  Mayor documentación disponible en línea
-
 *  Producción de programas con menos errores
-
 *  Capacidad para modificar el software y adaptarlo a nuestras necesidades
 
-#### ¿Por qué me importa?
+#### 2. ¿Por qué me importa?
 
 ![Top Ten](imgs/tiobeindex_R.png)
 *  Ocupa el lugar 10, del top ten de los lenguajes de programación según [The TIOBE Programming Community index](https://www.tiobe.com/tiobe-index/) (is an indicator of the popularity of programming languages).
@@ -45,7 +40,7 @@ R es en gran medida un vehículo para los nuevos métodos de análisis de datos 
 ### 3. R está hecho para quienes no son programadores
 A diferencia de lenguajes como C, C++, Python o Julia, R no está diseñado para quienes dominan la sintáxis, sino para quienes leemos el resultado. Eso nos obliga a ser más cuidadosos, pero también es una ventaja al transitar la curva de aprendizaje, además de que permite realizar operaciones poco convencionales.
 
-### 4. R está bien comunicado con el mundo
+### 4. R compatible con otros softwares
 En gran parte, gracias a personas como [Hadley Wickam](https://github.com/hadley), R se ha vuelto una excelente opción para hablar con otros tipos de software. Algunos ejemplos:
 
 *  [Excel](https://github.com/hadley/readxl)
@@ -60,9 +55,8 @@ En gran parte, gracias a personas como [Hadley Wickam](https://github.com/hadley
 
 *  Drive, Google Spreadsheets
 
-### 5. Puedo comunicar mis resultados fácilmente
+### 5. Comunicación rápida de resultados
 A raíz de la adecuación de Markdown a R, surgió una herramienta valiosísima y fácil de usar para comunicar nuestro trabajo: [RMarkdown](http://rmarkdown.rstudio.com/). A través de ella, podemos ejecutar código de R y "guardar" los resultados de este en el formato que decidamos. 
-
 
 ### 6. ¿Cómo funciona?
 R es un lenguaje Orientado a Objetos: bajo este complejo termino se esconde la simplicidad y flexibilidad de R. 
