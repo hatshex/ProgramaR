@@ -1,5 +1,5 @@
-### 1. [Introducción al lenguaje y ambiente R](https://www.r-project.org/about.html).
-## ¿Qué es R?
+## Introducción al lenguaje y ambiente R
+#### 1. [¿Qué es R?]((https://www.r-project.org/about.html))
 R es un lenguaje y entorno para computación estadística y gráficos. Es un proyecto GNU que es similar al lenguaje y el entorno S que fue desarrollado en los Laboratorios Bell (anteriormente AT&T, ahora Lucent Technologies) por John Chambers y sus colegas. R puede considerarse como una implementación diferente de S. Hay algunas diferencias importantes, pero gran parte del código escrito para S se ejecuta sin alterar en R.
 
 R proporciona una amplia variedad de técnicas estadísticas (modelado lineal y no lineal, pruebas estadísticas clásicas, análisis de series de tiempo, clasificación, agrupación, ...) y técnicas gráficas, y es altamente extensible. El lenguaje S suele ser el vehículo elegido para la investigación en metodología estadística, y R proporciona una ruta de código abierto para participar en esa actividad.
@@ -16,13 +16,9 @@ R es en gran medida un vehículo para los nuevos métodos de análisis de datos 
 "En particular, R tiene:
 
 *  Una herramienta efectiva de manejo y almacenamiento de datos
-
 *  Una serie de operadores para hacer cálculos en arreglos y matrices
-
 *  Una colección extensa, coherente e integrada de herramientas intermedias para analizar datos
-
 *  Herramientas gráficas para análisis y exhibición de datos, ya sea en una computadora o en otro tipo de presentaciones
-
 *  Un lenguaje de programación simple, efectivo y bien desarrollado (llamado 'S') que nos permite utilizar estructuras de control."
 
 *R es software libre*: 
