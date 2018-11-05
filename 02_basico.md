@@ -34,40 +34,72 @@ sentido).
 
 ```{r}
 # Potencias, sumas, multiplicaciones
-2^3 + 67 * 4 - (45 + 5)
+> 2^3 + 67 * 4 - (45 + 5)
+[1] 226
+
 # Comparaciones
-56 > 78 
-34 <= 34
-234 < 345
-"hola" == "hola"
-"buu" != "yay"
-# modulo
-10 %% 4 
+> 56 > 78 
+[1] FALSE
+
+> 34 <= 34
+[1] TRUE
+
+> 234 < 345
+[1] TRUE
+
+> "hola" == "hola"
+[1] TRUE
+
+> "buu" != "yay"
+[1] TRUE
+
+> # modulo
+> 10 %% 4 
+[1] 2
+
 ```
 
 Estas operaciones también pueden ser realizadas entre vectores
 
 ```{r}
-x <- -1:12
-x
-x + 1
-2 * x + 3
-x %% 5 #-- is periodic
-x %/% 5
+> x <- -1:12
+> x
+ [1] -1  0  1  2  3  4  5  6  7  8  9 10 11 12
+ 
+> x + 1
+ [1]  0  1  2  3  4  5  6  7  8  9 10 11 12 13
+ 
+> 2 * x + 3
+ [1]  1  3  5  7  9 11 13 15 17 19 21 23 25 27
+ 
+> x %% 5 #-- is periodic
+ [1] 4 0 1 2 3 4 0 1 2 3 4 0 1 2
+ 
+> x %/% 5
+ [1] -1  0  0  0  0  0  1  1  1  1  1  2  2  2
+
 ```
 
 Hay más de una manera de llamar a un vector:
 ```{r}
-seq(1,9,by=5)
-seq(1,9,length.out=5)
-1:3
-c(1,2,1:5)
+> seq(1,9,by=5)
+[1] 1 6
+
+> seq(1,9,length.out=5)
+[1] 1 3 5 7 9
+
+> 1:3
+[1] 1 2 3
+
+> c(1,2,1:5)
+[1] 1 2 1 2 3 4 5
+
 ```
 
 
 ## Comandos útiles
 
-Para enlistar lso objetos que están en el espacio de trabajo
+Para listar lso objetos que están en el espacio de trabajo
 
 ```{r}
 ls()
