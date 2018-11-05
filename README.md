@@ -1,5 +1,5 @@
 # ProgramaR
-Curso básico para aprender el lenguaje de programación de R
+Curso básico para aprender el lenguaje de programación R
 
 ## Presentación
 ## Objetivos
