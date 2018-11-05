@@ -10,7 +10,10 @@ Windows
 - Click en el link para descargar la última versión de R. Se descargará un archivo ejecutable (.exe).
  - Cuando se complete la descarga, dar doble click en el archivo y contestar las preguntas usuales para la instalación.
  - Probar que se haya instalado correctamente.
- ![Top Ten](imgs/windows-console.png) 
+```r
+> 3+3
+[1] 6
+```
 
 OS X
  - Ir a la dirección http://www.r-project.org/ en tu navegador.
