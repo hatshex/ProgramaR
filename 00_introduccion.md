@@ -39,6 +39,7 @@ R es en gran medida un vehículo para los nuevos métodos de análisis de datos 
 
 #### ¿Por qué me importa?
 
+![Top Ten](imgs/tiobeindex_R.png)
 *  Ocupa el lugar 10, del top ten de los lenguajes de programación según [The TIOBE Programming Community index](https://www.tiobe.com/tiobe-index/) (is an indicator of the popularity of programming languages).
 
 ### 3. R está hecho para quienes no son programadores
@@ -71,5 +72,10 @@ directamente sin necesidad de construir ejecutables
 
 *Orientado a Objetos* significa que las variables, datos, funciones, resultados, etc., se guardan en la memoria activa del computador en forma de objetos con un nombre específico. El usuario puede modificar o manipular estos objetos con operadores (aritmeticos, lógicos, y comparativos) y funciones (que a su vez son objetos).
 
-Todas las acciones en R se realizan con objetos que son guardados en la memoria activa de la computadora, sin usar archivos temporales. La lectura y escritura de archivos solo se realiza para la entrada y salida de datos y resultados (graficas, . . . ). El usuario ejecuta las funciones con la ayuda de comandos definidos. Los resultados se pueden visualizar directamente en la pantalla, guardar en un objeto o escribir directamente en el disco (particularmente para gráficos). Debido a que los resultados mismos son objetos, pueden ser considerados como datos y analizados como tal. Archivos que contengan datos pueden ser leidos directamente desde el disco local o en un
+![Top Ten](imgs/funcionamiento_R.png)
+
+* Todas las acciones en R se realizan con objetos que son guardados en la memoria activa de la computadora, sin usar archivos temporales.
+* La lectura y escritura de archivos solo se realiza para la entrada y salida de datos y resultados (graficas, etc ). 
+* El usuario ejecuta las funciones con la ayuda de comandos definidos. Los resultados se pueden visualizar directamente en la pantalla, guardar en un objeto o escribir directamente en el disco (particularmente para gráficos). 
+* Debido a que los resultados mismos son objetos, pueden ser considerados como datos y analizados como tal. Archivos que contengan datos pueden ser leidos directamente desde el disco local o en un
 servido remoto a través de la red.
