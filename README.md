@@ -1,13 +1,10 @@
 # ProgramaR
 Curso básico para aprender el lenguaje de programación de R
 
-## Intro
+## Presentación
 ## Objetivos
-- Instalar R y RStudio
 - Introducción al lenguaje y ambiente R
+- Instalar R y RStudio
 - Visualización de datos
 - Transformación de datos
 
-
-
-### ¿Qué es R?
