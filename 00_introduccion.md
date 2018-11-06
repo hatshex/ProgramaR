@@ -32,6 +32,12 @@ R es en gran medida un vehículo para los nuevos métodos de análisis de datos 
 
 ![Top Ten](imgs/tiobeindex_R.png)
 *  Ocupa el lugar 10, del top ten de los lenguajes de programación según [The TIOBE Programming Community index](https://www.tiobe.com/tiobe-index/) (is an indicator of the popularity of programming languages).
+*  R funciona en casi todas las plataformas (Mac, Windows, Linux e incluso en Playstation 3).
+*  R es un lenguaje de programación completo, permite desarrollo de DSLs.
+*  R promueve la investigación reproducible.
+*  R está actualizado gracias a que tiene una activa comunidad. Solo en CRAN hay cerca de 4000 paquetes.
+*  R se puede combinar con otras herramientas.
+*  R tiene capacidades gráficas muy sofisticadas.
 
 ### 3. R está hecho para quienes no son programadores
 A diferencia de lenguajes como C, C++, Python o Julia, R no está diseñado para quienes dominan la sintáxis, sino para quienes leemos el resultado. Eso nos obliga a ser más cuidadosos, pero también es una ventaja al transitar la curva de aprendizaje, además de que permite realizar operaciones poco convencionales.
