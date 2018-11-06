@@ -40,15 +40,10 @@ A diferencia de lenguajes como C, C++, Python o Julia, R no está diseñado para
 En gran parte, gracias a personas como [Hadley Wickam](https://github.com/hadley), R se ha vuelto una excelente opción para hablar con otros tipos de software. Algunos ejemplos:
 
 *  [Excel](https://github.com/hadley/readxl)
-
 *  [Java](https://github.com/hadley/rJava)
-
 *  [plot.ly](https://plot.ly/)
-
 *  [Github](https://github.com/hadley/devtools)
-
 *  STATA, Octave, SPSS, SAS 
-
 *  Drive, Google Spreadsheets
 
 ### 5. Comunicación rápida de resultados
@@ -56,7 +51,7 @@ A raíz de la adecuación de Markdown a R, surgió una herramienta valiosísima 
 
 ### 6. ¿Cómo funciona?
 R es un lenguaje Orientado a Objetos: bajo este complejo termino se esconde la simplicidad y flexibilidad de R. 
-* R es un lenguaje interpretado (como Java) y no compilado (como C,C++, Fortran, Pascal, . . . ), lo cual significa que los comandos escritos en el teclado son ejecutados
+* R es un lenguaje interpretado (como Java) y no compilado (como C,C++, Fortran, Pascal, etc ), lo cual significa que los comandos escritos en el teclado son ejecutados
 directamente sin necesidad de construir ejecutables
 * La sintaxis de R es muy simple e intuitiva. Por ejemplo, una regresión lineal se puede ejecutar con el comando lm(y ˜x). Para que una función sea ejecutada en R debe estar siempre acompanada de paréntesis, inclusive en el caso que no haya nada dentro de los mismos (por ej., ls()). Si se escribe el nombre de la funcion sin los parénntesis, R mostrará el contenido (codigo) mismo de la función.
 
