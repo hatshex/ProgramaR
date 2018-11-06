@@ -20,12 +20,7 @@ setwd("D:\\Proyectos\\ProgramaR")
 getwd()
 ```
 
-Con lo que acabamos de hacer, R buscará archivos o guardará archivos en el folder `/Users/moni/Repos/aprendeR`. En R también es posible navegar a partir de 
-el directorio de trabajo. Como siempre, 
-- "../un\_archivo.R" le indica a R que busque un folder arriba del actual 
-directorio de trabajo por el archivo *un\_archivo.R*.
-- "datos/otro\_archivo.R" hace que se busque en el directorio de trabajo, dentro 
-del folder *datos* por el archivo *otro\_archivo.R*
+Con lo que acabamos de hacer, R buscará archivos o guardará archivos en el folder `D:\Proyectos\ProgramaR`.
 
 #### 1.2 Ejemplos básicos
 
@@ -146,10 +141,7 @@ Nota como los objetos preservan el nombre con el que fueron guardados.
 
 #### 1.4 Librerías
 
-R puede hacer muchos análisis estadísticos y de datos. Las diferentes capacidades
-están organizadas en paquetes o librerías. Con la 
-[instalación estándar](https://github.com/animalito/aprendeR/blob/master/lecture_01/0_instalacion.pdf)
-se instalan también las librerías más comunes. Para obtener una lista de
+R puede hacer muchos análisis estadísticos y de datos. Las diferentes capacidades están organizadas en paquetes o librerías. Con la instalación estándar se instalan también las librerías más comunes. Para obtener una lista de
 todos los paquetes instalados se puede utilizar el comando `library()` en la consola.
 
 Existen una gran cantidad de paquetes disponibles además de los incluidos por default.
@@ -198,8 +190,7 @@ devtools::install_github("username/packagename")
 Donde `username` es el usuario de Github y `packagename` es el nombre del 
 repositorio que contiene el paquete. Cuidado, 
 no todo repositorio en GitHub es un paquete. Para más información ver el 
-capítulo [Git and GitHub](http://r-pkgs.had.co.nz/git.html)  en 
-\textcite{wickham2015r}.
+capítulo [Git and GitHub](http://r-pkgs.had.co.nz/git.html)  en R packages by Hadley Wickham.
 
 ##### Otras fuentes 
 
