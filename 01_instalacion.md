@@ -28,6 +28,10 @@
 ```
 ## 2. Entorno Gráfico IDE's
 #### 2.1 Ejemplos de IDE's
+* R Studio
+* Jupyter Notebook
+* Visual Studio for R
+* Eclipse
 
 #### 2.2 Instalación de RStudio
 
