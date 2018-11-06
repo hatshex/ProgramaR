@@ -1,4 +1,5 @@
-# El espacio de trabajo (Workspace)
+# Lo básico
+## 1. El espacio de trabajo (Workspace)
 
 ## Directorio de trabajo
 
