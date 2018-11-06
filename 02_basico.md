@@ -1,14 +1,13 @@
 # Lo básico
 Algunos shortcuts útiles:
 En el editor
-
-command/ctrl + enter: enviar código a la consola
-ctrl + 2: mover el cursor a la consola
+- command/ctrl + enter: enviar código a la consola
+- ctrl + 2: mover el cursor a la consola
 
 En la consola
-flecha hacia arriba: recuperar comandos pasados
-ctrl + flecha hacia arriba: búsqueda en los comandos
-ctrl + 1: mover el cursor al editor
+- flecha hacia arriba: recuperar comandos pasados
+- ctrl + flecha hacia arriba: búsqueda en los comandos
+- ctrl + 1: mover el cursor al editor
 
 
 ## 1. El espacio de trabajo (Workspace)
